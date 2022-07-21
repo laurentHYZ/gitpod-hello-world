@@ -1,6 +1,6 @@
 # List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
 # added a line of comment
 tasks:
-  - init: Hello-World
+  - name: Hello-World
     command: echo 'Hello world'
 
